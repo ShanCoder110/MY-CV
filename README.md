@@ -1,3 +1,3 @@
 # MY-CV
 
-https://github.com/ShanCoder110/MY-CV/blob/main/Shan%20Abbas(CV)/index.html
+https://shancoder110.github.io/MY-CV/Shan%20Abbas(CV)/index.html
